@@ -57,7 +57,7 @@ body, h1, h2, p, ul, li, a {
    
     .nav ul {
         flex-direction: column; 
-        align-items: center; 
+        align-items: flex-start; 
     }
 
     .nav ul li {
